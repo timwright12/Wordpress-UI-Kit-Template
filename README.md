@@ -1,4 +1,4 @@
-# Wordpress-UI-Kit-Template
+# Wordpress UI Kit Template
 This is a template file for a WordPress theme to create a UI Kit.
 
 ## Usage
